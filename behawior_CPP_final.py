@@ -58,8 +58,8 @@ Bx = 482  # get this value (pixel) from the frame from current experiemnt (left-
 y = 345  # get this value (pixel) from the frame from current experiemnt (any point on the border between Arena A and B)
 laser_test = 0
 
-movment_start = 0.5
-movment_stop = 0.1
+movment_start = 0.5 # cm/s
+movment_stop = 0.1  # cm/s
 
 # pathway to file 
 
